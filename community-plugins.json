@@ -199,7 +199,7 @@
     "id": "macOS-keyboard-nav-obsidian",
     "name": "macOS Keyboard Navigation",
     "author": "ryanjamurphy",
-    "description": "Enable alt+↑ and alt+↓ keyboard navigation.",
+    "description": "Enable alt+\u2191 and alt+\u2193 keyboard navigation.",
     "repo": "ryanjamurphy/macOS-keyboard-nav-obsidian"
   },
   {
@@ -2929,7 +2929,7 @@
     "id": "heatmap-calendar",
     "name": "Heatmap Calendar",
     "author": "richardsl",
-    "description": "Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, \"Dont Break the Chain\" etc.",
+    "description": "Activity Year Overview for DataviewJS, Github style \u2013 Track Goals, Progress, Habits, Tasks, Exercise, Finances, \"Dont Break the Chain\" etc.",
     "repo": "richardsl/heatmap-calendar-obsidian"
   },
   {
@@ -4231,7 +4231,7 @@
     "id": "actions-uri",
     "name": "Actions URI",
     "author": "Carlo Zottmann",
-    "description": "Add additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.",
+    "description": "Add additional `x-callback-url` endpoints to the app for common actions \u2014 it's a clean, super-charged addition to Obsidian URI.",
     "repo": "czottmann/obsidian-actions-uri"
   },
   {
@@ -5498,7 +5498,7 @@
     "id": "perilous-writing",
     "name": "Perilous Writing",
     "author": "sameersismail",
-    "description": "Write continuously—or lose all progress.",
+    "description": "Write continuously\u2014or lose all progress.",
     "repo": "sameersismail/obsidian-perilous-writing"
   },
   {
@@ -5545,7 +5545,7 @@
   },
   {
     "id": "gene-ai",
-    "name": "Gene 🧬",
+    "name": "Gene \ud83e\uddec",
     "author": "matissjurevics",
     "description": "Generate text using the OpenAI API.",
     "repo": "matissjurevics/Gene-AI"
@@ -10391,7 +10391,7 @@
     "id": "simsapa",
     "name": "Simsapa",
     "author": "simsapa",
-    "description": "Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a sidebar or double-click to lookup Pāli words in the dictionary, or search in the suttas.",
+    "description": "P\u0101li dictionary and sutta search using Simsapa Dhamma Reader. Open a sidebar or double-click to lookup P\u0101li words in the dictionary, or search in the suttas.",
     "repo": "simsapa/simsapa-obsidian"
   },
   {
@@ -10991,9 +10991,9 @@
   },
   {
     "id": "legifrance-integration",
-    "name": "Légifrance Intégration",
+    "name": "L\u00e9gifrance Int\u00e9gration",
     "author": "carnetdethese",
-    "description": "Intégration de l'API Légifrance.",
+    "description": "Int\u00e9gration de l'API L\u00e9gifrance.",
     "repo": "carnetdethese/legifrance-integration"
   },
   {
@@ -11426,7 +11426,7 @@
   {
     "id": "update-time",
     "name": "Update Time",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "Update front matter to include creation and last update times",
     "repo": "dsebastien/obsidian-update-time"
   },
@@ -11790,7 +11790,7 @@
   {
     "id": "dataview-serializer",
     "name": "Dataview Serializer",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "Serialize Dataview queries to Markdown, and keep the Markdown representation up to date",
     "repo": "dsebastien/obsidian-dataview-serializer"
   },
@@ -13184,7 +13184,7 @@
     "id": "japanese-novel-ruby",
     "name": "Japanese Novel Ruby",
     "author": "k-quels",
-    "description": "Treat ruby(Furigana) ​​marks commonly used in Japanese novels",
+    "description": "Treat ruby(Furigana) \u200b\u200bmarks commonly used in Japanese novels",
     "repo": "k-quels/japanese-novel-ruby"
   },
   {
@@ -13372,7 +13372,7 @@
   {
     "id": "typefully",
     "name": "Typefully",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "Typefully integration. Publish social media posts with ease",
     "repo": "dsebastien/obsidian-typefully"
   },
@@ -13533,7 +13533,7 @@
   {
     "id": "replicate",
     "name": "Replicate",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "Replicate.com integration. Generate images using AI.",
     "repo": "dsebastien/obsidian-replicate"
   },
@@ -14157,7 +14157,7 @@
     "id": "heatmap-tracker",
     "name": "Heatmap Tracker",
     "author": "mokkiebear",
-    "description": "Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap!",
+    "description": "Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more\u2014all in a single, interactive heatmap!",
     "repo": "mokkiebear/heatmap-tracker"
   },
   {
@@ -14402,7 +14402,7 @@
     "id": "smart-context",
     "name": "Smart Context",
     "author": "brianpetro",
-    "description": "Instantly copy folder contents or open notes—excluding specified headings—into your clipboard.",
+    "description": "Instantly copy folder contents or open notes\u2014excluding specified headings\u2014into your clipboard.",
     "repo": "brianpetro/smart-context-obsidian"
   },
   {
@@ -15571,7 +15571,7 @@
     "id": "tidit",
     "name": "tidit",
     "author": "codingthings-com",
-    "description": "tidit adds timestamps to your document as you type — when you want it, how you want it, where you want it.",
+    "description": "tidit adds timestamps to your document as you type \u2014 when you want it, how you want it, where you want it.",
     "repo": "codingthings-com/tidit-obsidian"
   },
   {
@@ -15604,9 +15604,9 @@
   },
   {
     "id": "harn-weather",
-    "name": "Hârn Weather Generator",
+    "name": "H\u00e2rn Weather Generator",
     "author": "marcueberall",
-    "description": "Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system.",
+    "description": "Weather generator for the H\u00e2rnMaster: Roleplaying in the World of K\u00e8th\u00eera rule system.",
     "repo": "marcueberall/obsidian-harn-weather"
   },
   {
@@ -16089,7 +16089,7 @@
     "id": "minimal-quiz",
     "name": "Minimal Quiz",
     "author": "lutu-gl",
-    "description": "Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated — similar to flashcards in Anki or Quizlet!",
+    "description": "Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated \u2014 similar to flashcards in Anki or Quizlet!",
     "repo": "lutu-gl/Obsidian-Minimal-Quiz"
   },
   {
@@ -16187,7 +16187,7 @@
     "id": "come-down",
     "name": "Come Down",
     "author": "mntno",
-    "description": "Maintains a cache of your notes’ embedded external images.",
+    "description": "Maintains a cache of your notes\u2019 embedded external images.",
     "repo": "mntno/obsidian-come-down"
   },
   {
@@ -16824,7 +16824,7 @@
     "id": "hadith-lookup",
     "name": "Hadith Lookup",
     "author": "iadnanmukhtar",
-    "description": "Inserts Hadith and Quranic ayat and passages using a reference ID from the Ḥadīth Unlocked API (https://hadithunlocked.com)",
+    "description": "Inserts Hadith and Quranic ayat and passages using a reference ID from the \u1e24ad\u012bth Unlocked API (https://hadithunlocked.com)",
     "repo": "iadnanmukhtar/obsidian-hadith-lookup-plugin"
   },
   {
@@ -18329,7 +18329,7 @@
     "id": "cliplet",
     "name": "Cliplet",
     "author": "namikaze-40p",
-    "description": "A clipboard and snippet manager — your own, separate from the OS clipboard.",
+    "description": "A clipboard and snippet manager \u2014 your own, separate from the OS clipboard.",
     "repo": "namikaze-40p/obsidian-cliplet"
   },
   {
@@ -19099,7 +19099,7 @@
     "id": "email-to-vault",
     "name": "Email to Vault",
     "author": "mnaoumov",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Sends emails to your vault as notes. Create a free mailbox with one click — no backend or paid service required.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sends emails to your vault as notes. Create a free mailbox with one click \u2014 no backend or paid service required.",
     "repo": "mnaoumov/obsidian-email-to-vault"
   },
   {
@@ -19176,7 +19176,7 @@
     "id": "zone-scroll-zoom",
     "name": "Zone Scroll Zoom",
     "author": "kqint",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Zoom where your mouse is — font in editor, interface elsewhere.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Zoom where your mouse is \u2014 font in editor, interface elsewhere.",
     "repo": "kqint/obsidian-zone-scroll-zoom"
   },
   {
@@ -19540,7 +19540,7 @@
     "id": "llm-wiki",
     "name": "LLM Wiki",
     "author": "enduserlab",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Turns raw notes into an interlinked wiki with confidence scores, memory tiers, and a knowledge graph — maintained automatically with Claude.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Turns raw notes into an interlinked wiki with confidence scores, memory tiers, and a knowledge graph \u2014 maintained automatically with Claude.",
     "repo": "enduserlab/llm-wiki"
   },
   {
@@ -19729,7 +19729,7 @@
     "id": "dgmo",
     "name": "Diagrammo Diagrams",
     "author": "diagrammo",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. 40+ diagram types in your notes from one plain-text language. Process, architecture, data,   project, hierarchy — diffable, searchable, mobile-friendly, with live preview and themed  palettes.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. 40+ diagram types in your notes from one plain-text language. Process, architecture, data,   project, hierarchy \u2014 diffable, searchable, mobile-friendly, with live preview and themed  palettes.",
     "repo": "diagrammo/obsidian-dgmo"
   },
   {
@@ -19757,7 +19757,7 @@
     "id": "polymind",
     "name": "PolyMind",
     "author": "semernyakov",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. PolyMind: One Vault. Any Model. Infinite Evolution. Multimodal AI chat with Groq API — one-click model switching, history, and cross-device sync for seamless productivity. OpenAI and Claude support coming soon.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. PolyMind: One Vault. Any Model. Infinite Evolution. Multimodal AI chat with Groq API \u2014 one-click model switching, history, and cross-device sync for seamless productivity. OpenAI and Claude support coming soon.",
     "repo": "semernyakov/polymind"
   },
   {
@@ -19827,7 +19827,7 @@
     "id": "vault-search",
     "name": "VaultSearch",
     "author": "erayaydn0",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Local-first hybrid search for your vault — combines keyword (BM25), semantic (vector embeddings), and fuzzy title matching. Multilingual, on-device, no cloud.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Local-first hybrid search for your vault \u2014 combines keyword (BM25), semantic (vector embeddings), and fuzzy title matching. Multilingual, on-device, no cloud.",
     "repo": "erayaydn0/obsidian-vault-search"
   },
   {
@@ -19855,7 +19855,7 @@
     "id": "claude-sessions",
     "name": "Claude Sessions",
     "author": "gapmiss",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. View Claude Code sessions. Browse, search, analyze, & export your sessions as interactive timelines with live watch & rich tool rendering — right alongside your notes.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. View Claude Code sessions. Browse, search, analyze, & export your sessions as interactive timelines with live watch & rich tool rendering \u2014 right alongside your notes.",
     "repo": "gapmiss/claude-sessions"
   },
   {
@@ -20016,7 +20016,7 @@
     "id": "codex-narrative-engine",
     "name": "Codex Narrative Engine",
     "author": "djinnmind",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Narrative intelligence for TTRPG world-building — entity indexing, consistency linting, and dead-link detection for your campaign vault.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Narrative intelligence for TTRPG world-building \u2014 entity indexing, consistency linting, and dead-link detection for your campaign vault.",
     "repo": "djinnmind/codex-narrative-engine"
   },
   {
@@ -20121,7 +20121,7 @@
     "id": "wechat-publisher",
     "name": "WeChat Publisher",
     "author": "rancelee233",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. 免费一键将 Obsidian 笔记发布到微信公众号 Publish WeChat Official Account articles with formatting, image upload, and draft push.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. \u514d\u8d39\u4e00\u952e\u5c06 Obsidian \u7b14\u8bb0\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7 Publish WeChat Official Account articles with formatting, image upload, and draft push.",
     "repo": "rancelee233/wechat-publisher"
   },
   {
@@ -20156,14 +20156,14 @@
     "id": "smart-paste",
     "name": "Smart Paste",
     "author": "konstantinosgkilas",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically cleans and transforms clipboard content on paste — converts HTML to markdown, fetches link titles, strips trackers, and normalizes whitespace.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically cleans and transforms clipboard content on paste \u2014 converts HTML to markdown, fetches link titles, strips trackers, and normalizes whitespace.",
     "repo": "konstantinosgkilas/smart-paste"
   },
   {
     "id": "embed-editor",
     "name": "Embed Editor",
     "author": "xmisio72",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Notion-style synced blocks. Click any transclusion (![[note]]) to edit its source in a floating panel — edit embeds in place.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Notion-style synced blocks. Click any transclusion (![[note]]) to edit its source in a floating panel \u2014 edit embeds in place.",
     "repo": "xmisio72/obsidian-embed-editor"
   },
   {
@@ -20190,7 +20190,7 @@
   {
     "id": "webdav-sync",
     "name": "WebDAV Sync",
-    "author": "Hēsperus",
+    "author": "H\u0113sperus",
     "description": "This plugin has not been manually reviewed by Obsidian staff. General-purpose & bidirectional WebDAV syncing for your vault. Designed for stability and robust file handling without vendor lock-in.",
     "repo": "hesprs/obsidian-webdav-sync"
   },
@@ -20366,7 +20366,7 @@
     "id": "wordorb-vocabulary",
     "name": "WordOrb Vocabulary",
     "author": "nicoletterankin",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Look up words from WordOrb.ai — definitions, IPA, translations across 47 languages, etymology, and audio.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Look up words from WordOrb.ai \u2014 definitions, IPA, translations across 47 languages, etymology, and audio.",
     "repo": "nicoletterankin/wordorb-obsidian"
   },
   {
@@ -20513,7 +20513,7 @@
     "id": "eisenhower-matrix",
     "name": "Eisenhower Matrix",
     "author": "oamadorr",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Organize your tasks using the Eisenhower Matrix — prioritize by urgency and importance across 4 quadrants.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Organize your tasks using the Eisenhower Matrix \u2014 prioritize by urgency and importance across 4 quadrants.",
     "repo": "oamadorr/eisenhower-matrix-obsidian"
   },
   {
@@ -20842,7 +20842,7 @@
     "id": "hiker-scrolls",
     "name": "HikerScrolls",
     "author": "rickliang-jy",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Where trail stories meet living maps. A scrollytelling journal that moves with your narrative — contour lines, geotagged photos, and a global atlas of every summit.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Where trail stories meet living maps. A scrollytelling journal that moves with your narrative \u2014 contour lines, geotagged photos, and a global atlas of every summit.",
     "repo": "rickliang-jy/HikerScrolls"
   },
   {
@@ -21101,7 +21101,7 @@
     "id": "ghostty-terminal",
     "name": "Ghostty Terminal",
     "author": "lavs9",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. True Ghostty embedded terminal (libghostty-vt WASM) – with your real Ghostty config, multi-split support, and file-explorer context menu.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. True Ghostty embedded terminal (libghostty-vt WASM) \u2013 with your real Ghostty config, multi-split support, and file-explorer context menu.",
     "repo": "lavs9/obsidian-ghostty-terminal"
   },
   {
@@ -21248,7 +21248,7 @@
     "id": "replace-em-dash",
     "name": "Replace Em Dash",
     "author": "joaonoturno",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically replaces -- with — (em dash)",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically replaces -- with \u2014 (em dash)",
     "repo": "joaonoturno/Em-dash-plugin"
   },
   {
@@ -21402,7 +21402,7 @@
     "id": "tag-toggler",
     "name": "Tag Toggler",
     "author": "studiogamma",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Hide specific tag nodes from Graph View by converting tags to plain text (e.g. #Year → —#Year). Unhide to restore them.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Hide specific tag nodes from Graph View by converting tags to plain text (e.g. #Year \u2192 \u2014#Year). Unhide to restore them.",
     "repo": "studiogamma/tag-toggler"
   },
   {
@@ -21626,7 +21626,7 @@
     "id": "markdown-viewer-extension",
     "name": "Markdown Viewer",
     "author": "markdown-viewer",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Markdown to perfect Word in one click — Mermaid, Vega, drawio, canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Markdown to perfect Word in one click \u2014 Mermaid, Vega, drawio, canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing.",
     "repo": "markdown-viewer/obsidian"
   },
   {
@@ -21703,7 +21703,7 @@
     "id": "mandala-grid",
     "name": "Mandala Grid",
     "author": "panatgithub",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Mandala grid (3×3 / 9×9) editor built on Lineage.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Mandala grid (3\u00d73 / 9\u00d79) editor built on Lineage.",
     "repo": "panatgithub/obsidian-mandala-grid"
   },
   {
@@ -21717,7 +21717,7 @@
     "id": "slash-blocks",
     "name": "Slash Blocks",
     "author": "stefan-imbesi",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Type `/` to open a Superlist‑style menu and insert content blocks (task, headings, lists, etc.).",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Type `/` to open a Superlist\u2011style menu and insert content blocks (task, headings, lists, etc.).",
     "repo": "stefan-imbesi/obsidian-slash-blocks"
   },
   {
@@ -21730,7 +21730,7 @@
   {
     "id": "trouble-tags",
     "name": "Trouble Tags",
-    "author": "Simon Späti",
+    "author": "Simon Sp\u00e4ti",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Scans the active file for TODO, FIXME, BUG, NOTE, and WARN tags and lists them in a sidebar panel.",
     "repo": "sspaeti/obsidian-trouble-tags"
   },
@@ -22535,7 +22535,7 @@
   {
     "id": "reverse-complement",
     "name": "Reverse Complement",
-    "author": "Björn Johansson",
+    "author": "Bj\u00f6rn Johansson",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Right-click menu to convert selected DNA to its reverse complement.",
     "repo": "bjornfjohansson/reverse-complement"
   },
@@ -22592,7 +22592,7 @@
     "id": "snipsidian",
     "name": "Snipsy",
     "author": "dimagious",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Snipsy adds hotstrings/text expansion to the editor — folders, bulk editing, and Espanso-compatible packs.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Snipsy adds hotstrings/text expansion to the editor \u2014 folders, bulk editing, and Espanso-compatible packs.",
     "repo": "dimagious/snipsidian"
   },
   {
@@ -22724,7 +22724,7 @@
   {
     "id": "life-tracker",
     "name": "Life Tracker",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Capture and visualize the data that matters in your life.",
     "repo": "dsebastien/obsidian-life-tracker-base-view"
   },
@@ -22976,7 +22976,7 @@
   {
     "id": "dnd-hp-tracker",
     "name": "D&D HP Tracker",
-    "author": "Miłosz Kucharski",
+    "author": "Mi\u0142osz Kucharski",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Track hit points, temporary HP, and apply damage/healing with resistance and vulnerability options for D&D characters.",
     "repo": "butterski/obsidian-dnd-hp-tracker"
   },
@@ -23495,7 +23495,7 @@
     "id": "cms-xgkb-sync",
     "name": "XGKB Sync",
     "author": "xgjk",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Sync notes with 玄关知识库 (XGKB Knowledge Base)",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sync notes with \u7384\u5173\u77e5\u8bc6\u5e93 (XGKB Knowledge Base)",
     "repo": "xgjk/obsidian-xgkb-sync"
   },
   {
@@ -23691,7 +23691,7 @@
     "id": "cjk-cross-search",
     "name": "CJK Cross-Script Search",
     "author": "sai1047976",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Type 萬維鋼 and find 万维钢 (and vice versa) in global search. Uses OpenCC to expand queries across Simplified and Traditional Chinese.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Type \u842c\u7dad\u92fc and find \u4e07\u7ef4\u94a2 (and vice versa) in global search. Uses OpenCC to expand queries across Simplified and Traditional Chinese.",
     "repo": "sai1047976/obsidian-cjk-cross-search"
   },
   {
@@ -23761,7 +23761,7 @@
     "id": "miyo-hakobi",
     "name": "MiYo Hakobi",
     "author": "Marcus Breiden",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Scheduled Vault Import / Export - Files Move. You don't have to. Local Filesystem <=> Vault - Import / Export — import voice memos / snippets / etc. into your inbox, export folders / tags / notes to external locations.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Scheduled Vault Import / Export - Files Move. You don't have to. Local Filesystem <=> Vault - Import / Export \u2014 import voice memos / snippets / etc. into your inbox, export folders / tags / notes to external locations.",
     "repo": "mmomm-org/miyo-hakobi"
   },
   {
@@ -23815,7 +23815,7 @@
   },
   {
     "id": "scholar-sidekick",
-    "name": "Scholar Sidekick — Cite from any identifier",
+    "name": "Scholar Sidekick \u2014 Cite from any identifier",
     "author": "mlava",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Paste a DOI, PMID, ISBN, or arXiv ID and replace it with a formatted citation. 10,000+ CSL styles. No reference manager required.",
     "repo": "mlava/scholar-sidekick-obsidian"
@@ -23831,7 +23831,7 @@
     "id": "checkbox-auto-sort",
     "name": "Checkboxes: Sort done to bottom",
     "author": "vin-cf",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Sort completed checkboxes to the bottom of the list as soon as they’re checked.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sort completed checkboxes to the bottom of the list as soon as they\u2019re checked.",
     "repo": "vin-cf/obsidian-checkbox-auto-sort"
   },
   {
@@ -24006,7 +24006,7 @@
     "id": "paperforge",
     "name": "PaperForge",
     "author": "lllin000",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. PaperForge — Zotero literature pipeline. Sync PDFs, run OCR, and read with AI-assisted deep reading.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. PaperForge \u2014 Zotero literature pipeline. Sync PDFs, run OCR, and read with AI-assisted deep reading.",
     "repo": "lllin000/PaperForge"
   },
   {
@@ -24048,7 +24048,7 @@
     "id": "xhs-importer",
     "name": "Xiaohongshu Importer Plus",
     "author": "lxl448080113",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Import Xiaohongshu (小红书) notes with configurable default folders, frontmatter fields, local images, and video links.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Import Xiaohongshu (\u5c0f\u7ea2\u4e66) notes with configurable default folders, frontmatter fields, local images, and video links.",
     "repo": "lxl448080113/ob-Plugin"
   },
   {
@@ -24097,7 +24097,7 @@
     "id": "notekeeper",
     "name": "Notekeeper",
     "author": "philemonchiro",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Browse your vault as a Google Keep-style masonry of cards. Quick capture, pin, color, archive, and filter notes by labels — sticky-note style.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Browse your vault as a Google Keep-style masonry of cards. Quick capture, pin, color, archive, and filter notes by labels \u2014 sticky-note style.",
     "repo": "philemonchiro/obsidian-notekeeper"
   },
   {
@@ -24118,7 +24118,7 @@
     "id": "light-mindmap",
     "name": "Light Mindmap",
     "author": "ninglg",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Auto-renders markdown headings as a colorful, interactive mindmap — no extra syntax required.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Auto-renders markdown headings as a colorful, interactive mindmap \u2014 no extra syntax required.",
     "repo": "ninglg/light-mindmap"
   },
   {
@@ -24244,7 +24244,7 @@
     "id": "open-agent",
     "name": "OpenAgent",
     "author": "nikitaclicks",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. AI agent for your vault — vault-aware, tool-capable, BYOK, and cross-platform (desktop + mobile).",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. AI agent for your vault \u2014 vault-aware, tool-capable, BYOK, and cross-platform (desktop + mobile).",
     "repo": "nikitaclicks/obsidian-openagent"
   },
   {
@@ -24314,7 +24314,7 @@
     "id": "watchlog",
     "name": "WatchLog",
     "author": "BogdanS",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Track your anime, movies, and TV shows — with episode tracking, progress stats, upcoming release alerts, and embeddable widgets.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Track your anime, movies, and TV shows \u2014 with episode tracking, progress stats, upcoming release alerts, and embeddable widgets.",
     "repo": "shynkro/watchlog-obsidian-plugin"
   },
   {
@@ -24398,7 +24398,7 @@
     "id": "gryphon",
     "name": "Gryphon",
     "author": "polleoai",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Bring AI to your vault — with guardrails at runtime.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Bring AI to your vault \u2014 with guardrails at runtime.",
     "repo": "polleoai/gryphon"
   },
   {
@@ -24433,7 +24433,7 @@
     "id": "git-file-sync",
     "name": "Git File Sync",
     "author": "firstsun-dev",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts — file by file, on mobile and desktop.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts \u2014 file by file, on mobile and desktop.",
     "repo": "firstsun-dev/git-files-sync"
   },
   {
@@ -24552,7 +24552,7 @@
     "id": "monolithos",
     "name": "Monolithos",
     "author": "silas-zhen",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. An AI companion for local-first thinking. Crystallize notes into structured memory, summon AI inline with Cmd+J, transform writing into podcasts and presentations — all inside your vault.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. An AI companion for local-first thinking. Crystallize notes into structured memory, summon AI inline with Cmd+J, transform writing into podcasts and presentations \u2014 all inside your vault.",
     "repo": "silas-zhen/monolithos-plugin"
   },
   {
@@ -24635,21 +24635,21 @@
   {
     "id": "journal-bases",
     "name": "Journal Bases",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Custom Base views for journaling and periodic reviews",
     "repo": "dsebastien/obsidian-journal-base"
   },
   {
     "id": "graph-explorer-base-view",
     "name": "Graph Explorer Base View",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. A custom Obsidian Bases view that renders notes as an interactive force-directed graph with explored/unexplored tracking",
     "repo": "dsebastien/obsidian-graph-explorer-base-view"
   },
   {
     "id": "hidden-folders-access",
     "name": "Hidden Folders Access",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Make Obsidian index hidden root-level folders (e.g. .claude) so they appear in the file tree, metadata cache, and Bases.",
     "repo": "dsebastien/obsidian-hidden-folders-access"
   },
@@ -24706,14 +24706,14 @@
     "id": "manex-brain",
     "name": "Manex Brain",
     "author": "Manex",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Local AI brain for your Obsidian vault. Indexes all your notes and answers questions privately using a local Apple Silicon MLX model — no cloud, no API keys.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Local AI brain for your Obsidian vault. Indexes all your notes and answers questions privately using a local Apple Silicon MLX model \u2014 no cloud, no API keys.",
     "repo": "krcnow/manex-brain"
   },
   {
     "id": "ai-wiki",
     "name": "AI Wiki",
     "author": "Ilya",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. AI-powered compoundable knowledge base — extracts, synthesizes and maintains a wiki from raw sources.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. AI-powered compoundable knowledge base \u2014 extracts, synthesizes and maintains a wiki from raw sources.",
     "repo": "ikeniborn/obsidian-llm-wiki"
   },
   {
@@ -24832,7 +24832,7 @@
     "id": "sync-trakt",
     "name": "Sync Trakt",
     "author": "o1xhack",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes \u2014 with metadata localization and detailed per-episode watch timestamps.",
     "repo": "o1xhack/obsidian-sync-trakt"
   },
   {
@@ -24916,7 +24916,7 @@
     "id": "mindcanvas",
     "name": "MindCanvas",
     "author": "Geng",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. A mindmap that is really a map. 真正的思维投影。",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. A mindmap that is really a map. \u771f\u6b63\u7684\u601d\u7ef4\u6295\u5f71\u3002",
     "repo": "gengyabc/naotu"
   },
   {
@@ -25013,35 +25013,35 @@
   {
     "id": "storyline",
     "name": "StoryLine",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Transform your vault into a powerful book planning and writing tool. Corkboard,KanbanBoard view, timeline, plotlines,character tracking, and more.",
     "repo": "pixerojan/obsidian-storyline"
   },
   {
     "id": "to-word",
     "name": "ToWord",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Export markdown files to Word (docx) with text styling, syntax highlighting, and full mobile support for iOS/Android.",
     "repo": "pixerojan/obsidian-toword"
   },
   {
     "id": "synonym",
     "name": "Synonym",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Synonyms for Swedish and English words.",
     "repo": "pixerojan/obsidian-synonym"
   },
   {
     "id": "resizer",
     "name": "Resizer",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Resize embedded images and PDFs by dragging corners. Automatically updates markdown with correct dimensions.",
     "repo": "pixerojan/obsidian-resizer"
   },
   {
     "id": "indent",
     "name": "Indent",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Disable indented code blocks so tabs/spaces become normal indentation.",
     "repo": "pixerojan/obsidian-indent"
   },
@@ -25062,7 +25062,7 @@
   {
     "id": "hide-sidebars",
     "name": "Hide Sidebars",
-    "author": "Hasan Yılmaz",
+    "author": "Hasan Y\u0131lmaz",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Enhanced sidebar control with auto-hide mode, dedicated toggle icons, and intuitive controls for independent left and right sidebars.",
     "repo": "hasanyilmaz/hide-sidebars"
   },
@@ -25112,7 +25112,7 @@
     "id": "simple-timeline",
     "name": "TTRPG Tools: Timeline",
     "author": "Johannes Schwartz",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Timeline-Renderer für Calendarium-Frontmatter (fc-date/fc-end). 200×315 Bild, Callout-Stil, native Popover, mobilfreundlich.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Timeline-Renderer f\u00fcr Calendarium-Frontmatter (fc-date/fc-end). 200\u00d7315 Bild, Callout-Stil, native Popover, mobilfreundlich.",
     "repo": "jareika/Simple-Timeline"
   },
   {
@@ -25181,35 +25181,35 @@
   {
     "id": "time-machine",
     "name": "Time Machine",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Browse, compare, and restore previous versions of your notes using built-in file-recovery snapshots.",
     "repo": "dsebastien/obsidian-time-machine"
   },
   {
     "id": "cli-rest-mcp",
     "name": "REST and MCP server",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Exposes CLI commands as RESTful API endpoints and an MCP server for AI tool integration.",
     "repo": "dsebastien/obsidian-cli-rest"
   },
   {
     "id": "expander",
     "name": "Expander",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Replace variables across your vault using HTML comment markers. Supports static values and dynamic functions.",
     "repo": "dsebastien/obsidian-expander"
   },
   {
     "id": "image-transcriber",
     "name": "Transcriber",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Transcribe images to markdown using Ollama vision models.",
     "repo": "dsebastien/obsidian-transcriber"
   },
   {
     "id": "book-exporter",
     "name": "Book Exporter",
-    "author": "Sébastien Dubois",
+    "author": "S\u00e9bastien Dubois",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Export books (one manifest note + linked chapter notes) to EPUB and PDF via Pandoc.",
     "repo": "dsebastien/obsidian-book-exporter"
   },
@@ -25245,7 +25245,7 @@
     "id": "nodian",
     "name": "Nodian",
     "author": "Aki",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. YAML bidirectional relation — automatically sync backlinks in frontmatter fields.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. YAML bidirectional relation \u2014 automatically sync backlinks in frontmatter fields.",
     "repo": "akisantin/Nodian"
   },
   {
@@ -25307,7 +25307,7 @@
   {
     "id": "extension-hub",
     "name": "Extension Hub",
-    "author": "Jan Sandström",
+    "author": "Jan Sandstr\u00f6m",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Browse GitHub and the community forum to install plugins across multiple vaults simultaneously.",
     "repo": "pixerojan/obsidian-extension-hub"
   },
@@ -25343,7 +25343,7 @@
     "id": "writers-alembic",
     "name": "Writers Alembic",
     "author": "Scott E. Detweiler",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Sane AI writing workflow tool. Workflows live in your vault as Markdown files — edit, share, and run them on any note.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sane AI writing workflow tool. Workflows live in your vault as Markdown files \u2014 edit, share, and run them on any note.",
     "repo": "sedetweiler/obsidian-alembic"
   },
   {
@@ -25412,8 +25412,9 @@
   {
     "id": "mouse-tooltip-translator",
     "name": "Mouse Tooltip Translator",
-    "author": "ときくん",
+    "author": "\u3068\u304d\u304f\u3093",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Inspired by 'Mouse Tooltip Translator' Chrome extension. Hover to translate.",
     "repo": "toki1703/mouse-tooltip-translator"
-  }
+  },
+  "obsidian-ima-plugin"
 ]
