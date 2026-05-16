@@ -25416,5 +25416,39 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Inspired by 'Mouse Tooltip Translator' Chrome extension. Hover to translate.",
     "repo": "toki1703/mouse-tooltip-translator"
   },
-  "obsidian-ima-plugin"
+  {
+    "id": "expandomatic",
+    "name": "Expandomatic",
+    "author": "Onsi Fakhouri",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Expand selection outward through word, sentence, paragraph, section, document — like VSCode's expand selection.",
+    "repo": "onsi/expandomatic"
+  },
+  {
+    "id": "canvas-node-linker",
+    "name": "Canvas Node Linker",
+    "author": "Giuseppe Mastrodomenico",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. A simple plugin that adds a right-click menu on Canvas nodes to instantly copy a wikilink of the node.",
+    "repo": "mvstro/canvas-node-linker"
+  },
+  {
+    "id": "custom-code-highlight",
+    "name": "Custom Code Highlight",
+    "author": "Dong Yang",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Extensible syntax highlighting for custom and missing Obsidian code block languages.",
+    "repo": "ydd0729/obsidian-custom-code-highlight"
+  },
+  {
+    "id": "better-footnote",
+    "name": "Better Footnote",
+    "author": "alcatrazyu",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. A writing-focused footnote sidebar for editing, navigating, and preserving context in academic Markdown notes.",
+    "repo": "alcatrazyu/better-footnote"
+  },
+  {
+    "id": "ima",
+    "name": "IMA",
+    "author": "Liu Bo",
+    "description": "Integrate IMA knowledge base with your vault. Supports Markdown rendering, import to folder, and advanced search.",
+    "repo": "liuboacean/obsidian-ima-plugin"
+  }
 ]
