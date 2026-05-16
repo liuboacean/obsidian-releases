@@ -25445,7 +25445,7 @@
     "repo": "alcatrazyu/better-footnote"
   },
   {
-    "id": "obsidian-ima-plugin",
+    "id": "ima",
     "name": "Ima",
     "author": "Liu Bo",
     "description": "Integrate IMA knowledge base with your vault. Supports Markdown rendering, import to folder, and advanced search.",
