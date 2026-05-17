@@ -25446,7 +25446,7 @@
   },
   {
     "id": "ima",
-    "name": "Ima",
+    "name": "Ima Vault",
     "author": "Liu Bo",
     "description": "Integrate IMA knowledge base with your vault. Supports Markdown rendering, import to folder, and advanced search.",
     "repo": "liuboacean/ima-plugin"
