@@ -25449,6 +25449,6 @@
     "name": "Ima",
     "author": "Liu Bo",
     "description": "Integrate IMA knowledge base with your vault. Supports Markdown rendering, import to folder, and advanced search.",
-    "repo": "liuboacean/obsidian-ima-plugin"
+    "repo": "liuboacean/ima-plugin"
   }
 ]
